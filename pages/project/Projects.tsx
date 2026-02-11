@@ -29,7 +29,7 @@ function ProjectCard() {
     {
       image: "/image/sy_pausemenu.png",
       title: "XSP_nextjs-mantaine-website",
-      link: "https://github.com/XsprayGoD/MyPersonalWebsite",
+      link: "https://github.com/XsprayGoD/nextjs-mantine",
       type: "website",
       disabled: false,
       description:
